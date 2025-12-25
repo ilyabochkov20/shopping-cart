@@ -42,8 +42,6 @@ Finish
 
 Откройте папку shopping-cart в IntelliJ:
 File → Open → выберите папку shopping-cart
-IntelliJ автоматически распознает Maven проект
-Дождитесь индексирования проекта
 Откройте Main.java и нажмите Shift + F10 для запуска
 
 ОЖИДАЕМЫЙ РЕЗУЛЬТАТ:
